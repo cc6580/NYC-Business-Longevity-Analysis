@@ -4,7 +4,7 @@
 * [Legally_Operating_Businesses.csv](https://github.com/the-yanqi/DS1001project/blob/master/Legally_Operating_Businesses.csv)
     - Source: NYC Open Data: *Legally Operating Business*
     - URL: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh. (accessed: 11.20.2019)
-    - Description: This dataset contains200375instances of the businesses that have existed or are still operating in New York City. Eachinstance contains location information: `City`, `Street`, `Zip Code`; license information: `License Type` (Businessor Personal), `License Creation/Expiration Date`; and business information: `names`, `phones` and `Industry Type`
+    - Description: This dataset contains 200375 instances of the businesses that have existed or are still operating in New York City. Eachinstance contains location information: `City`, `Street`, `Zip Code`; license information: `License Type` (Businessor Personal), `License Creation/Expiration Date`; and business information: `names`, `phones` and `Industry Type`
 * [new_york.csv](https://github.com/the-yanqi/DS1001project/blob/master/new_york.csv)
     * Source: Zip Code Demographics By State And County Batch Report
     * URL:https://www.cdxtech.com/tools/bulk/demographics/state-and-county/?from=singlemessage&isappinstalled=0. (accessed: 11.22.2019)
